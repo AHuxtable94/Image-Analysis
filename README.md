@@ -13,4 +13,4 @@ Written in Python 3 using the [Stoner Package v 0.9.x](https://github.com/stoner
 
 # Licensing
 Lead developer for this code is Alexandra Huxtable (pyajh@leeds.ac.uk), with input from others in the [Stoner Lab](https://github.com/stonerlab) Organisation.
-This code and the sample data are all (C) The University of Leeds 2008-2020 unless otherwise indicated in the source file. The contents of the Stoner package which is used are licensed under the terms of the GNU Public License v3.
+This code and the sample data are all (C) The University of Leeds 2018-2020 unless otherwise indicated in the source file. The contents of the Stoner package which is used are licensed under the terms of the GNU Public License v3.
