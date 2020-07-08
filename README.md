@@ -7,6 +7,7 @@ v0.1 In development, aims:
 <li> Opens hdf5 files to view
 <li> Sorts files by image number and date (in the image file names or entered manually) </li> 
 </ul>
+
 # Compatibility
 Written in Python 3 using the [Stoner Package v 0.9.x](https://github.com/stonerlab/Stoner-PythonCode).
 
