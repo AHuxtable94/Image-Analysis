@@ -1,4 +1,4 @@
-# Image-Analysis
+# XMCD-STXM Image Analysis
 Image Analysis code in development for hdf5 files to be combined to make XMCD-STXM files with metadata generated during a beamtime at [PolLux, Swiss Light Source, PSI](https://www.psi.ch/en/sls/pollux).
 
 ## Versions
