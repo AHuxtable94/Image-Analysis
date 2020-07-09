@@ -9,7 +9,7 @@ v0.1 In development, aims:
 </ul>
 
 ## Compatibility
-Written in Python 3 using the [Stoner Package v 0.9.x](https://github.com/stonerlab/Stoner-PythonCode).
+Written in Python 3 using the [Stoner Package v 0.9.x](https://zenodo.org/badge/latestdoi/10057055).
 
 ## Licensing
 Lead developer for this code is Alexandra Huxtable (pyajh@leeds.ac.uk), with input from others in the [Stoner Lab](https://github.com/stonerlab) Organisation.
