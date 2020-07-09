@@ -12,7 +12,7 @@ For use with hdmf5 images gathered during a beamtime at PolLux, PSI.
     with the magnetic field, and rxy data, into a file for all images sorted into a folder
     which represents a minor hysteresis loop.
     
-Written by A. J. Huxtable, July 2020.
+Written by A. J. Huxtable, 9th July 2020.
 """
 
 import os
