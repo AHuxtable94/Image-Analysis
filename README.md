@@ -10,6 +10,7 @@ v0.1 In development, aims:
 
 ## Compatibility
 Written in Python 3 using the [Stoner Package v 0.9.x](https://zenodo.org/badge/latestdoi/10057055).
+In particular uses ImageFile and ImageFolder from the Stoner.Image class, and Stoner.HDF5 to provide classes for use with Data objects.
 
 ## Licensing
 Lead developer for this code is Alexandra Huxtable (pyajh@leeds.ac.uk), with input from others in the [Stoner Lab](https://github.com/stonerlab) Organisation.
